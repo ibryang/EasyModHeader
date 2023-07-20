@@ -24,7 +24,7 @@ EasyModHeader 是一个强大且易用的浏览器扩展程序，它能使用户
 ## 截图
 
 ![请修改请求](screenshots/1_修改请求头.jpg)
-![拦截请求](screenshots/2_拦截请求.jpg)
+![拦截请求](screenshots/2_拦截请求2.jpg)
 ![重定向](screenshots/3_重定向.jpg)
 
 ## 感谢
